@@ -17,3 +17,5 @@ I'm Aashabul. I really enjoy learning new languages and frameworks.
 * Bootstrap
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aashabul)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aashabul)](https://github.com/anuraghazra/github-readme-stats)

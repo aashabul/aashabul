@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aashabul</h1>
 <h3 align="center">A passionate React developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Redux, GraphQl**
+- 🌱 I'm constantly learning and improving my skills.
+- 
+- 👯 I'm always open to collaboration and meeting new people.
 
-- 📫 How to reach me **aashabulimam@gmail.com**
+- 💬 Feel free to reach out to me **aashabulimam@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

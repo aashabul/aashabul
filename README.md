@@ -6,10 +6,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/aashabul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashabul" height="30" width="40" /></a>
-  
 </p>
 
-<h3 align="left">Frontend:</h3>
+<h3 align="left">Skills:</h3>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
@@ -35,10 +34,6 @@
       height="40"
     />
   </a>
-</p>
-
-<h3 align="left">Backend:</h3>
-<p align="left"> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
@@ -63,11 +58,7 @@
       height="40"
     />
   </a>
-</p>
-
-<h3 align="left">Frameworks:</h3>
-<p align="left"> 
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/laravel/art/master/laravel-logo.png"
       alt="laravel"
@@ -83,11 +74,8 @@
       height="40"
     />
   </a>
-</p>
 
-<h3 align="left">UI:</h3>
-<p align="left"> 
-  <a href="https://styled-components.com/" target="_blank" rel="noreferrer">
+   <a href="https://styled-components.com/" target="_blank" rel="noreferrer">
     <img
       src="https://styled-components.com/logo.png"
       alt="styled-components"
@@ -111,18 +99,16 @@
       height="40"
     />
   </a>
-</p>
 
-<h3 align="left">Tools:</h3>
-<p align="left"> 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img
+     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"
       alt="vscode"
       width="40"
       height="40"
     />
   </a>
+  
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"

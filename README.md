@@ -5,7 +5,7 @@
 
 - 👯 I'm always open to collaboration and meeting new people.
 
-- 💬 Feel free to reach out to me **aashabulimam@gmail.com**
+- 💬 Feel free to reach out to me **[LinkedIn](https://www.linkedin.com/in/aashabul/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

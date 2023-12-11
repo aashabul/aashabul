@@ -41,7 +41,7 @@
       height="40"
     />
   </a>
-  &ensp;
+  
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"

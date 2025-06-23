@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aashabul</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">Laravel & Full-Stack Developer | UI/UX | Building Web Tools @ MonoKrome Inc.</h3>
 
 - 📫 How to reach me **aashabulimam@gmail.com**
 

@@ -37,14 +37,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aashabul&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-
----
-
 ### 📌 Currently working on:
 - A Laravel-based internal platform for MonoKrome’s creative operations
 - Open-source tools to help new Laravel developers

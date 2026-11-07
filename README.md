@@ -1,87 +1,89 @@
-<h1 align="center">Hi 👋, I'm Aashab</h1>
+```md
+<div align="center">
 
-<h3 align="center">
-Product-Focused Full Stack & UI/UX Developer for SaaS and AI Web Apps
-</h3>
+# Aashab Imam
 
-<p align="center">
-I build scalable, design-driven digital products for startups and modern businesses.
-Combining strong UI/UX thinking with robust engineering, I create production-ready SaaS platforms and AI-powered web applications using Laravel, React, and Next.js.
-</p>
+### Design Engineer · Product Designer · Frontend Developer
 
----
+**Designing intuitive products. Engineering thoughtful experiences.**
 
-## 🚀 About Me
+I work at the intersection of product design and software engineering, translating complex requirements into intuitive interfaces and reliable web applications.
 
-- 💼 Full Stack & UI/UX Developer at <strong>MonoKrome Inc.</strong>
-- 🧩 Specialized in building <strong>SaaS platforms, internal tools, and AI-powered web apps</strong>
-- 🎨 Strong background in <strong>UI/UX design, product thinking, and frontend architecture</strong>
-- ⚡ Experienced with <strong>Laravel, React, Next.js, REST APIs, and scalable backend systems</strong>
-- 🤝 Passionate about bridging the gap between design and development
-- 🌍 Based in <strong>Bangladesh</strong>
-- 📫 Reach me at: <strong>aashabulimam@gmail.com</strong>
+My work combines product thinking, interface design, and hands-on development, with an emphasis on usability, maintainability, and thoughtful execution.
+
+[![Website](https://img.shields.io/badge/Website-242424?style=flat-square&logo=googlechrome&logoColor=white)](https://monokrome.dev)
+[![Email](https://img.shields.io/badge/Email-242424?style=flat-square&logo=gmail&logoColor=white)](mailto:aashabulimam@gmail.com)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### About
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/FilamentPHP-FDAE4B?style=for-the-badge&logo=laravel&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=sass&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+I'm a Product Designer and Frontend Developer at **MonoKrome Inc.**, with 3+ years of professional experience across design and web application development.
+
+I approach software development from both a design and engineering perspective. I care about how interfaces look, how they behave, how they're structured, and how effectively they solve real problems.
+
+My experience covers the full development process, from understanding requirements and designing interfaces in Figma to implementing frontend applications, integrating APIs, and developing supporting backend functionality.
+
+I value clean architecture, consistent interfaces, practical solutions, and the details that make digital products feel complete.
 
 ---
 
-## 💼 Experience
+### Technical Expertise
 
-### Full-Stack Web Developer — MonoKrome Inc.
-📅 Mar 2021 – Present
+**Design & Product**
 
-At MonoKrome Inc., I’ve contributed to 30+ web projects by combining UI/UX leadership with full-stack development. My role focuses on transforming product ideas into scalable, user-centered digital experiences.
+![Figma](https://img.shields.io/badge/Figma-242424?style=flat-square&logo=figma&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX_Design-242424?style=flat-square)
+![Design Systems](https://img.shields.io/badge/Design_Systems-242424?style=flat-square)
+![Prototyping](https://img.shields.io/badge/Prototyping-242424?style=flat-square)
 
-### Key Contributions
+**Frontend Engineering**
 
-- Led UI/UX design workflows using Figma, from wireframes to high-fidelity interfaces
-- Built responsive frontends with React.js and Next.js
-- Developed scalable backend systems using Laravel
-- Integrated APIs, authentication systems, and database architecture
-- Collaborated closely with design and development teams for seamless execution
-- Delivered production-ready applications with strong focus on usability and performance
+![React](https://img.shields.io/badge/React-242424?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-242424?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-242424?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-242424?style=flat-square&logo=javascript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-242424?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-242424?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-242424?style=flat-square&logo=css&logoColor=white)
 
----
+**Backend & Application Development**
 
-## 🎯 Core Expertise
-
-- Laravel Development
-- React & Next.js
-- UI/UX Design
-- SaaS Product Development
-- AI Web Applications
-- REST API Integration
-- Responsive Frontend Architecture
-- Product Design Systems
-- Full-Stack Application Development
+![Laravel](https://img.shields.io/badge/Laravel-242424?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-242424?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-242424?style=flat-square&logo=mysql&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-242424?style=flat-square&logo=laravel&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-242424?style=flat-square)
 
 ---
 
-## 🎓 Education
+### Engineering Approach
 
-**Bangladesh University of Business & Technology**  
-B.Sc. in Computer Science & Engineering  
-Graduated in 2021
+I believe good software is the result of thoughtful decisions across both design and implementation.
+
+- **Design with intent** — Prioritize clarity, usability, visual consistency, and meaningful interactions.
+- **Build with structure** — Favor maintainable components, reusable patterns, and understandable code.
+- **Think in systems** — Consider how interfaces, application logic, and data work together.
+- **Solve the actual problem** — Choose practical solutions based on requirements rather than unnecessary complexity.
+- **Refine continuously** — Treat feedback, iteration, and attention to detail as essential parts of development.
 
 ---
 
-## 🌍 Philosophy
+### Currently
 
-> “Design with purpose. Build with logic. Deliver products that scale.”
+Working at **[MonoKrome Inc.](https://monokrome.dev)** across product design, frontend engineering, and web application development.
+
+My interests include design engineering, modern frontend architecture, developer tooling, and the evolving role of AI in software development.
+
+---
+
+<div align="center">
+
+**Design with purpose. Build with logic. Deliver with care.**
+
+<sub>Bangladesh · Open to meaningful collaborations</sub>
+
+</div>
+```

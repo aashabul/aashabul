@@ -1,84 +1,110 @@
+
 <div align="center">
 
-# Aashab Imam
+<img src="./assets/readme-hero.png" alt="Aashab Imam | Design Engineer" width="100%">
 
-### Design Engineer · Product Designer · Frontend Developer
+<br>
 
-**Designing intuitive products. Engineering thoughtful experiences.**
-
-I work at the intersection of product design and software engineering, translating complex requirements into intuitive interfaces and functional web applications.
-
-My work combines product thinking, interface design, and hands-on development, with an emphasis on usability, maintainability, and thoughtful execution.
-
-[![Website](https://img.shields.io/badge/Website-242424?style=flat-square&logo=googlechrome&logoColor=white)](https://monokrome.dev)
-[![Email](https://img.shields.io/badge/Email-242424?style=flat-square&logo=gmail&logoColor=white)](mailto:aashabulimam@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF7900?style=for-the-badge&logo=googlechrome&logoColor=white)](https://monokrome.dev)
+[![Email](https://img.shields.io/badge/EMAIL-242424?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aashabulimam@gmail.com)
 
 </div>
 
----
+<br>
 
-### About
+## About Me
 
-I'm a Product Designer and Frontend Developer at **MonoKrome Inc.**, with 3+ years of professional experience across design and web application development.
+I'm a **Design Engineer, Product Designer, and Frontend Developer** at **[MonoKrome Inc.](https://monokrome.dev)**, with **3+ years of professional experience** across product design and web application development.
 
-I approach software development from both a design and engineering perspective. I care about how interfaces look, how they behave, how they're structured, and how effectively they solve real problems.
+I work at the intersection of design and engineering, transforming complex requirements into intuitive interfaces and functional digital products.
 
-My experience covers the development process, from understanding requirements and designing interfaces in Figma to implementing frontend applications, integrating APIs, and developing supporting backend functionality.
+My work spans the complete product development process, from understanding requirements and designing interfaces in Figma to implementing frontend applications, integrating APIs, and developing supporting backend functionality.
 
-I value clean architecture, consistent interfaces, practical solutions, and the details that make digital products feel complete.
+I believe the best digital experiences are built through thoughtful design decisions, clean architecture, practical engineering, and continuous refinement.
 
----
+<br>
 
-### Technical Expertise
+## Technical Expertise
 
-**Design & Product**
+### Design & Product
 
 ![Figma](https://img.shields.io/badge/Figma-242424?style=flat-square&logo=figma&logoColor=white)
-![UI/UX](https://img.shields.io/badge/UI%2FUX_Design-242424?style=flat-square)
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX_Design-242424?style=flat-square)
 ![Design Systems](https://img.shields.io/badge/Design_Systems-242424?style=flat-square)
 ![Prototyping](https://img.shields.io/badge/Prototyping-242424?style=flat-square)
 
-**Frontend Engineering**
+### Frontend Engineering
 
-![React](https://img.shields.io/badge/React-242424?style=flat-square&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-242424?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-242424?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-242424?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-242424?style=flat-square&logo=javascript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-242424?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-242424?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-242424?style=flat-square&logo=css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-242424?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-242424?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-242424?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![HTML5](https://img.shields.io/badge/HTML5-242424?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-242424?style=flat-square&logo=css&logoColor=1572B6)
 
-**Backend & Application Development**
+### Backend & Application Development
 
-![Laravel](https://img.shields.io/badge/Laravel-242424?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-242424?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-242424?style=flat-square&logo=mysql&logoColor=white)
-![Filament](https://img.shields.io/badge/Filament-242424?style=flat-square&logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-242424?style=flat-square&logo=laravel&logoColor=FF2D20)
+![PHP](https://img.shields.io/badge/PHP-242424?style=flat-square&logo=php&logoColor=777BB4)
+![MySQL](https://img.shields.io/badge/MySQL-242424?style=flat-square&logo=mysql&logoColor=4479A1)
+![Filament](https://img.shields.io/badge/Filament-242424?style=flat-square)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-242424?style=flat-square)
 
----
+<br>
 
-### Engineering Approach
+## Engineering Philosophy
 
-I believe good software is the result of thoughtful decisions across both design and implementation.
+I believe good software is the result of thoughtful decisions across design, architecture, and implementation.
 
-- **Design with intent** — Prioritize clarity, usability, visual consistency, and meaningful interactions.
-- **Build with structure** — Favor maintainable components, reusable patterns, and understandable code.
-- **Think in systems** — Consider how interfaces, application logic, and data work together.
-- **Solve the actual problem** — Choose practical solutions based on requirements rather than unnecessary complexity.
-- **Refine continuously** — Treat feedback, iteration, and attention to detail as essential parts of development.
+| Principle | Approach |
+| :--- | :--- |
+| **Design with intent** | Prioritize clarity, usability, visual consistency, and meaningful interactions. |
+| **Build with structure** | Create maintainable components, reusable patterns, and understandable code. |
+| **Think in systems** | Understand how interfaces, application logic, and data work together. |
+| **Solve real problems** | Choose practical solutions based on requirements, not unnecessary complexity. |
+| **Refine continuously** | Improve through feedback, iteration, and attention to detail. |
 
----
+<br>
 
-### Currently
+## Currently
 
 Working at **[MonoKrome Inc.](https://monokrome.dev)** across product design, frontend engineering, and web application development.
 
-My interests include design engineering, modern frontend architecture, developer tooling, and the evolving role of AI in software development.
+My current areas of interest include:
+
+- **Design Engineering** — Bridging visual design and production-ready code.
+- **Product Development** — Building intuitive and useful digital experiences.
+- **Frontend Architecture** — Developing scalable and maintainable applications.
+- **Design Systems** — Creating consistent, reusable interface foundations.
+- **AI & Developer Tooling** — Exploring practical applications of AI in software development.
+
+<br>
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aashabul&bg_color=0D1117&color=FFFFFF&line=FF7900&point=FF7900&area=true&area_color=FF7900&hide_border=true" alt="GitHub Activity Graph" width="100%">
+
+</div>
+
+<br>
 
 ---
 
 <div align="center">
+
+### Let's Build Something Meaningful
+
+I'm interested in thoughtful products, ambitious ideas, and meaningful collaborations.
+
+<br>
+
+[![Explore My Work](https://img.shields.io/badge/EXPLORE_MY_WORK-FF7900?style=for-the-badge&logo=googlechrome&logoColor=white)](https://monokrome.dev)
+[![Get In Touch](https://img.shields.io/badge/GET_IN_TOUCH-242424?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aashabulimam@gmail.com)
+
+<br><br>
 
 **Design with purpose. Build with logic. Deliver with care.**
 

@@ -81,13 +81,15 @@ My current areas of interest include:
 
 <br>
 
+
 ## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aashabul&bg_color=0D1117&color=FFFFFF&line=FF7900&point=FF7900&area=true&area_color=FF7900&hide_border=true" alt="GitHub Activity Graph" width="100%">
+[![GitHub Profile](https://img.shields.io/badge/VIEW_MY_GITHUB_ACTIVITY-FF7900?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aashabul?tab=overview)
 
 </div>
+
 
 <br>
 

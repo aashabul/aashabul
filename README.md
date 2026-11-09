@@ -81,18 +81,6 @@ My current areas of interest include:
 
 <br>
 
-
-## GitHub Activity
-
-<div align="center">
-
-[![GitHub Profile](https://img.shields.io/badge/VIEW_MY_GITHUB_ACTIVITY-FF7900?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aashabul?tab=overview)
-
-</div>
-
-
-<br>
-
 ---
 
 <div align="center">
